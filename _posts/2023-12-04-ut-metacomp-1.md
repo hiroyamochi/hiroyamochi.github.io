@@ -6,7 +6,7 @@ tags: [misc]
 ---
 
 
-[KuMA アドベントカレンダー 2023](https://hiroyamochi.github.io/posts/ut-metacomp-1/)の5日目の投稿です。
+[KuMA アドベントカレンダー 2023](https://adventar.org/calendars/9549)の5日目の投稿です。
 
 ## はじめに
 12月2日-3日に東京大学で開催された「メタバースコンペティション体験会」に参加してきました。
