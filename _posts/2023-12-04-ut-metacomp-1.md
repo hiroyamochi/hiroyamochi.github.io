@@ -1,5 +1,5 @@
 ---
-title: はじめまして
+title: 東大メタバースコンペティションに参加してきた
 date: 2023-12-04 20:00:00 +0900
 categories: [Misc]
 tags: [misc]
