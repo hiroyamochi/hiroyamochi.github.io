@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Hiroya</title>
   <subtitle>たまに書く。</subtitle>
-  <updated>2023-12-10T13:20:41+09:00</updated>
+  <updated>2023-12-10T13:24:17+09:00</updated>
   <author>
     <name>Hiroya</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/pcc2023/" rel="alternate" type="text/html" title="大学でのiPad活用法 2023年版" />
     <published>2023-12-09T20:26:48+09:00</published>
   
-    <updated>2023-12-10T11:00:56+09:00</updated>
+    <updated>2023-12-10T13:21:16+09:00</updated>
   
     <id>http://localhost:4000/posts/pcc2023/</id>
     <content src="http://localhost:4000/posts/pcc2023/" />
