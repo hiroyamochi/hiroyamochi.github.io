@@ -1,0 +1,229 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Hiroya</title>
+  <subtitle>たまに書く。</subtitle>
+  <updated>2023-12-10T13:20:41+09:00</updated>
+  <author>
+    <name>Hiroya</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="ja-JP"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2023 Hiroya </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>大学でのiPad活用法 2023年版</title>
+    <link href="http://localhost:4000/posts/pcc2023/" rel="alternate" type="text/html" title="大学でのiPad活用法 2023年版" />
+    <published>2023-12-09T20:26:48+09:00</published>
+  
+    <updated>2023-12-10T11:00:56+09:00</updated>
+  
+    <id>http://localhost:4000/posts/pcc2023/</id>
+    <content src="http://localhost:4000/posts/pcc2023/" />
+    <author>
+      <name>Hiroya</name>
+    </author>
+
+  
+    
+    <category term="Misc" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      今年の11月、九州PCカンファレンス in 九州大学に参加してきました。
+
+大学生協の九州ブロックが主催しているイベントで、小中高の教員や学生、企業の方々が集まって教育にまつわることを議論するイベントです。
+
+私は今回、お世話になっている生協の職員さんからの依頼で「普段の大学生活でiPadを始めとしたデバイスをどうつかっているかを講演してほしい」と言われました。
+
+そこで話したことを中心に、イベントの一部様子を書き残しておきます、
+
+講演
+今回は「iPadは欠かせない相棒」みたいなテーマで話をしました。
+
+講演でつかったスライドを貼りつつ、どんなことを話したのかを説明しておこうと思います。
+
+大学の授業でのデバイス活用術
+私は大学の授業を受けるとき、教科書などの紙テキストを左に、iPadを正面に置いていることが多いです。
+
+
+これは特にこだわりとか理由があるわけではなく、「右利きのひ...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>東大メタバースコンペティションに参加してきた (後編)</title>
+    <link href="http://localhost:4000/posts/ut-metacomp-2/" rel="alternate" type="text/html" title="東大メタバースコンペティションに参加してきた (後編)" />
+    <published>2023-12-06T00:00:00+09:00</published>
+  
+    <updated>2023-12-06T00:10:10+09:00</updated>
+  
+    <id>http://localhost:4000/posts/ut-metacomp-2/</id>
+    <content src="http://localhost:4000/posts/ut-metacomp-2/" />
+    <author>
+      <name>Hiroya</name>
+    </author>
+
+  
+    
+    <category term="Misc" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      KuMA アドベントカレンダー 2023の6日目の投稿です。
+
+前編では1日目の様子について触れたので、2日目の様子と、他の団体の作品を紹介します。
+
+2日目
+2日目も朝から展示でした。
+
+東大キャンパスの中で新郎新婦っぽい方々が写真を取られていたのが印象的でした。
+
+
+一般公開体験会
+2日目は企業さんではなく一般の方々に体験会に来てもらいました。
+
+……とは言いつつ、この体験会は大きく広報されていた気配がないので「誰も来ないのでは?」とは思っていましたが。
+
+結果から言ってしまえば展示サークルの身内数人と東大生2人が遊びに来てくれました。
+正直もうちょっと広報してくれてもよかったのになぁとは思います。
+
+1日目ほど展示が忙しくなかったので、他のサークルの作品を体験させてもらったりもしました。
+下のほうでまとめて紹介します。
+
+一般体験会が始まる前に、東大VRサークルの先生方からイン...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>東大メタバースコンペティションに参加してきた (前編)</title>
+    <link href="http://localhost:4000/posts/ut-metacomp-1/" rel="alternate" type="text/html" title="東大メタバースコンペティションに参加してきた (前編)" />
+    <published>2023-12-04T20:00:00+09:00</published>
+  
+    <updated>2023-12-05T19:41:31+09:00</updated>
+  
+    <id>http://localhost:4000/posts/ut-metacomp-1/</id>
+    <content src="http://localhost:4000/posts/ut-metacomp-1/" />
+    <author>
+      <name>Hiroya</name>
+    </author>
+
+  
+    
+    <category term="Misc" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      KuMA アドベントカレンダー 2023の5日目の投稿です。
+
+はじめに
+12月2日-3日に東京大学で開催された「メタバースコンペティション体験会」に参加してきました。
+
+10月に行われた東京大学のVRサークル UT-virtual 主催の「XR制作物プレゼン」にて、KuMAが昨年制作した「VR花火 ~打ち上げ花火、下から見るか中から見るか~」が光栄にも表彰される運びとなったためです。
+
+個人的にも2019年冬以来、コロナのごたごたが明けて4年ぶりに訪れる東京が楽しみでもありました。
+
+展示イベントや東京大学の様子を写真とともに振り返ってみます。
+
+調子に乗って書いてたら長くなったので後編は明日公開します。
+
+1日目
+イベントは本郷キャンパスの工学部1号館で行われました。
+
+
+東京大学を訪れるのは初めてでしたが、想像していた規模とは桁違いに大学がデカい。
+
+工学部の建物だけでも14号...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>はじめまして</title>
+    <link href="http://localhost:4000/posts/hello-world/" rel="alternate" type="text/html" title="はじめまして" />
+    <published>2023-11-29T16:37:17+09:00</published>
+  
+    <updated>2023-11-29T16:58:36+09:00</updated>
+  
+    <id>http://localhost:4000/posts/hello-world/</id>
+    <content src="http://localhost:4000/posts/hello-world/" />
+    <author>
+      <name>Hiroya</name>
+    </author>
+
+  
+    
+    <category term="Misc" />
+    
+    <category term="Tech" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      ポートフォリオ兼ブログをつくった
+
+GitHub Pages の機能を使ってつくってみた．
+
+つかったテーマはCirpyというやつ．
+
+何に使うの
+
+未定．
+
+リアル寄りの内容をここに置いていくことになると思う．それ以外は note に書くつもり．
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
