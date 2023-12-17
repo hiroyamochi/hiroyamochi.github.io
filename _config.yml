@@ -13,9 +13,9 @@ timezone: Asia/Tokyo
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Hiroya # the main title
+title: 餅蔵 # the main title
 
-tagline: 雑記置き場 # it will display as the sub-title
+tagline: Hiroyaの雑記置き場 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   たまに書く。
