@@ -27,15 +27,19 @@ tags: [misc]
 
 ![alt](/assets/img/240408_shortcut1.png)
 
+動作イメージ
+
+![alt](/assets/img/240408_demo.gif)
+
 ショートカットアプリはあくまでもインタフェースとして使うだけ．
 
 ホーム画面に置いたアイコンから起動するとすぐに入力プロンプトが出てくるので，ぽちぽち入れていく．
 
 レシピは[こちら](https://www.icloud.com/shortcuts/d831adcb4121416eab0e9d6973f35d1b)から追加できるのでどうぞ．
 
-大まかな使いかたはこちらにも載せてます．
+大まかな使いかたは以下にも載せてます．
 
-https://github.com/hiroyamochi/money-diary-with-shortcuts
+[https://github.com/hiroyamochi/money-diary-with-shortcuts](https://github.com/hiroyamochi/money-diary-with-shortcuts)
 
 ## GAS側の実装
 
