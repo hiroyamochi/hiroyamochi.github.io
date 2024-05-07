@@ -1,3 +1,7 @@
+plugins:
+  - jekyll-sitemap
+
+
 # The Site Configuration
 # Import the theme
 theme: jekyll-theme-chirpy
